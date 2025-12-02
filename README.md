@@ -1,0 +1,1 @@
+Main goal of PharmaDC is to maintain and keep all kind of job batch record history documented by online. reduce paper work and make online for more easy, less mistake, share with client and easy to access from any where in the world.
